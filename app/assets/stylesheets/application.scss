@@ -90,6 +90,12 @@ form.button_to {
   }
 }
 
+.footer-btns {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .sticky-nav {
   background: green;
   position: sticky;
